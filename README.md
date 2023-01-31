@@ -5,15 +5,15 @@ cfc-insight-technical-challenge
 # Solutions
 All scripts written in Python 3.10.6
 
-Install dependencies: json, collections, re are included in python standard library. \n
+Install dependencies: json, collections, re are included in python standard library.  
 `pip install -r requirements.txt`
 
-Running script: \n
+Running script:  
 `python3 cfc_web_scrape.py`
 
 Output:
-External sources JSON format. **Note that images are included but are all hosted on cfcunderwriting.com**
-`
+External sources JSON format. **Note that images are included but are all hosted on cfcunderwriting.com**  
+```
 [
     {
         'type':'images'
@@ -24,18 +24,18 @@ External sources JSON format. **Note that images are included but are all hosted
         'src': 'src'
     },
 ]
-`
+```
 
 
-Word frequency count JSON format
-`
+Word frequency count JSON format:  
+```
 [
     {
         'term':'privacy'
         'count': 11
     },
 ]
-`
+```
 
 # The Challenge
 Produce a program that:
