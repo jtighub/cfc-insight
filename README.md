@@ -5,10 +5,10 @@ cfc-insight-technical-challenge
 # Solutions
 All scripts written in Python 3.10.6
 
-Install dependencies: json, collections, re are included in python standard library.
+Install dependencies: json, collections, re are included in python standard library. \n
 `pip install -r requirements.txt`
 
-Running script:
+Running script: \n
 `python3 cfc_web_scrape.py`
 
 Output:
