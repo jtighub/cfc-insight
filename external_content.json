@@ -1,0 +1,82 @@
+[
+    {
+        "type": "image",
+        "src": "/images/flags/gb.svg"
+    },
+    {
+        "type": "image",
+        "src": "/images/flags/gb.svg"
+    },
+    {
+        "type": "image",
+        "src": "/images/flags/us.svg"
+    },
+    {
+        "type": "image",
+        "src": "/images/flags/ca.svg"
+    },
+    {
+        "type": "image",
+        "src": "/images/flags/au.svg"
+    },
+    {
+        "type": "image",
+        "src": "/images/Positive_logo_for_Nav_banner.svg"
+    },
+    {
+        "type": "image",
+        "src": "/images/flags/gb.png"
+    },
+    {
+        "type": "image",
+        "src": "/images/flags/gb.png"
+    },
+    {
+        "type": "image",
+        "src": "/images/flags/us.png"
+    },
+    {
+        "type": "image",
+        "src": "/images/flags/ca.png"
+    },
+    {
+        "type": "image",
+        "src": "/images/flags/au.png"
+    },
+    {
+        "type": "image",
+        "src": "/images/awards-ratings-module__graphic.svg"
+    },
+    {
+        "type": "image",
+        "src": "/media/3952/90percent-stat-graphic.png"
+    },
+    {
+        "type": "image",
+        "src": "/media/5128/ehealth_resources_1600x900px.png?anchor=center&mode=crop&rnd=133119450290000000"
+    },
+    {
+        "type": "image",
+        "src": "/media/3726/company-page-nav_feature-image-v2-01.png?anchor=center&mode=crop&rnd=132808454570000000"
+    },
+    {
+        "type": "script",
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"
+    },
+    {
+        "type": "script",
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/js/bootstrap.min.js"
+    },
+    {
+        "type": "script",
+        "src": "https://www.google.com/recaptcha/api.js?render=6LemiyEaAAAAAGwb4nR8oX38fxyM36xjIGbwz6d4"
+    },
+    {
+        "type": "stylesheet",
+        "src": "https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700"
+    },
+    {
+        "type": "stylesheet",
+        "src": "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css"
+    }
+]
