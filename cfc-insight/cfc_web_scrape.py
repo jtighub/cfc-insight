@@ -94,7 +94,7 @@ def get_word_freq(html):
     # Counter object to dictionary
     word_frq = [{'term': k , 'count': v} for k, v in Counter(bow).items()]
 
-    with open("term_frequency.json", 'w', encoding='utf-8') as outfile:
+    with open("./json_solutions/term_frequency.json", 'w', encoding='utf-8') as outfile:
         json.dump(word_frq, outfile, indent=4)
 
 
@@ -113,7 +113,7 @@ def get_external_content(html):
     for style in get_stylesheet(html):
         json_out.append({'type':'stylesheet', 'src': style})
 
-    with open("external_content.json", 'w', encoding='utf-8') as outfile:
+    with open("./json_solutions/external_content.json", 'w', encoding='utf-8') as outfile:
         json.dump(json_out, outfile, indent=4)
 
 
