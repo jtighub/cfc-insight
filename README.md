@@ -14,7 +14,7 @@ Running script:
 
 Outputs:  
   
-External sources JSON format. **Note that images are included but are all hosted on cfcunderwriting.com**  
+External sources JSON format. **Note that images are included for completeness but are all hosted on cfcunderwriting.com**  
 ```
 [
     {

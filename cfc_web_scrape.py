@@ -105,7 +105,7 @@ def get_external_content(html):
     json_out = []
 
     for img in get_img_tags(html):
-        json_out.append({'type':'image', 'src': img})
+        json_out.append({'type':'image', 'src': f"https://www.cfcunderwriting.com{img}"})
 
     for script in get_scripts(html):
         json_out.append({'type':'script', 'src': script})
